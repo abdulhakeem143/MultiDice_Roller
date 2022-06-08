@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multi Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="top_text">Welcome Players!</string>
+    <string name="p1">Player 1</string>
+    <string name="p2">Player 2</string>
+    <string name="p1_name_hint">Enter Your Name :</string>
+    <string name="name_hint">Enter Your Name :</string>
+</resources>
